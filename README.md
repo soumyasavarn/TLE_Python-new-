@@ -70,7 +70,7 @@ The process.env file used in the bot:
 
 
 # Credits
-Project(2023) Updates and modifications were done by:
+Project(2023) Updates and modifications were done by :
 1. [Dev Shah](https://github.com/DevvvvvShah)
 2. [Shreyans Garg](https://github.com/ShreyansGarg)
 3. [Soumya Savarn](https://github.com/SoumyaSavarn)
